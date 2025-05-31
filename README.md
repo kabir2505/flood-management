@@ -1,6 +1,5 @@
 
 
 
-`Running uv`
-`uv run main.py`
-`{'no_damage': 0, 'visible_damage': 1}`
+Run inference using flask
+`python3 api/app.py`
